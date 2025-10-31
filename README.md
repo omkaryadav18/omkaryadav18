@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of CSE(AI and ML)<br>👯 I’m looking to collaborate on multiple domains of machine learning<br>🤝 I’m looking for help with building a strong portfolio<br>🌱 I’m currently learning AI and ML<br>💬 I am passionate about data science
+🔭 Currently a student of CSE(AI and ML)<br>👯 Looking to collaborate on multiple domains of machine learning<br>🤝 Looking for help with building a strong portfolio<br>🌱 Currently learning AI and ML<br>💬 Passionate about data science
 
 
 ## 🌐 Socials:
